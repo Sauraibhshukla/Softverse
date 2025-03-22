@@ -43,7 +43,7 @@
             max-width: 150px;
         }
         .contact {
-            background: green;
+            background: white;
             color: #fff;
             padding: 20px;
         }
@@ -107,14 +107,14 @@
     <!-- Contact Section -->
     <section class="contact">
         <h2>Contact Me</h2>
-        <p>Email: <a href="mailto:your.email@example.com" class="text-white">your.email@example.com</a></p>
+        <p>Email: <a href="mailto:sauraibhshukla@gmail.com" class="text-white">your.email@example.com</a></p>
         
         <!-- Social Profiles -->
         <div class="social-icons">
             <a href="https://www.linkedin.com/in/saurabhshukladigital" target="_blank">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn">
             </a>
-            <a href="https://x.com/sauraibhshukla" target="_blank">
+            <a href="https://www.x.com/sauraibhshukla" target="_blank">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/X_logo_2023.svg" alt="X (Twitter)">
             </a>
             <a href="https://www.instagram.com/sauraibhshukla/?hl=en" target="_blank">
